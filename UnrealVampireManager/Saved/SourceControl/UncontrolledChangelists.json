@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/rrask/Documents/Unreal Projects/UnrealVampireManager/UnrealVampireManager/Content/Core/levels/lvl_playground.umap",
+				"/Users/rrask/Documents/Unreal Projects/UnrealVampireManager/UnrealVampireManager/Content/Core/input/IMC_Player.uasset",
+				"/Users/rrask/Documents/Unreal Projects/UnrealVampireManager/UnrealVampireManager/Content/Core/input/actions/IA_Move.uasset",
+				"/Users/rrask/Documents/Unreal Projects/UnrealVampireManager/UnrealVampireManager/Content/Core/input/actions/IA_Action.uasset",
+				"/Users/rrask/Documents/Unreal Projects/UnrealVampireManager/UnrealVampireManager/Content/Core/blueprints/BP_player_controller.uasset"
+			]
+		}
+	]
+}
